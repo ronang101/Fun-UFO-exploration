@@ -16,4 +16,4 @@ This dataset caught my eye, so I decided I would spend an afternoon exploring it
 
 ## Getting Involved
 
-If you're curious about UFO sightings or data analysis, feel free to dive into the code, explore the data, and perhaps contribute your own analyses or visualizations.
+If you're curious about UFO sightings or data analysis, feel free to dive into the code, explore the data, and perhaps contribute your own analyses or visualizations. Also of course download the htmls in the output files to view the 3D outputs!
