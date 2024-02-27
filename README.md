@@ -14,6 +14,25 @@ This dataset caught my eye, so I decided I would spend an afternoon exploring it
 - **Showcase Analytical Prowess**: Leverage this analysis to highlight my skills in data wrangling, statistical reasoning, and compelling data visualization.
 - **Advance Learning and Growth**: Continue to refine my proficiency in Python and its powerful data libraries, such as pandas, matplotlib, scikit-learn, and seaborn. These tools are indispensable to data professionals and are becoming increasingly relevant in software development.
 
+## Visualizations
+
+An integral part of this exploration into UFO sightings is the visualization of the data. Visualizations help in understanding the complex relationships and patterns that emerge from the sightings. Below are interactive 3D visualizations we produce in the exploration that offer a deeper dive into the clustering, temporal, and spatial distribution of the sightings, feel free to check them out and have a look around:
+
+### UFO Sightings Clustering 2
+This visualization clusters the sightings into 2 groups based on their features and presents them in a 3D scatter plot by making use of PCA, providing insights into the commonalities between different sightings.
+
+[View UFO Sightings Clustering 2](https://ronang101.github.io/Fun-UFO-exploration/UFO_Sightings_Clustering_2.html)
+
+### UFO Sightings Clustering 3
+An additional clustering visualization that further groups the sightings into three distinct groups, offering another perspective on the dataset, again making use of PCA.
+
+[View UFO Sightings Clustering 3](https://ronang101.github.io/Fun-UFO-exploration/UFO_Sightings_Clustering_3.html)
+
+### UFO Sightings Temporal Spatial Distribution
+This graph displays the UFO sightings over time and space, highlighting how the frequency and location of sightings have changed over the years.
+
+[View UFO Sightings Temporal Spatial Distribution](https://ronang101.github.io/Fun-UFO-exploration/UFO_Sightings_Temporal_Spatial_Distribution.html)
+
 ## Getting Involved
 
 If you're curious about UFO sightings or data analysis, feel free to dive into the code, explore the data, and perhaps contribute your own analyses or visualizations. Also of course download the htmls in the output files to view the 3D outputs!
